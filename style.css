@@ -6,7 +6,7 @@ h1{
     color: rgb(26, 25, 25);
     font-size: 150px;
     position: relative;
-    top: 350px;
+    top: 310px;
     left: 50px;
     text-align: center;
 }
@@ -56,10 +56,26 @@ h1{
          width: 200px;
      }
 
-p{
+   
+#p2{
     font-size: 20px;
     position: fixed;
-    top: 630px;
-    left: 170px;
+    top: 300px;
+    left: 50px;
     text-align: center;
 }
+
+
+#h1{
+    font-size: 80px;
+    position: fixed;
+    top: 50px;
+    color: #f6efef;
+}
+
+#b2{
+    background-color: #d74ba1e4;
+    color: #fff7f7;
+}
+
+
