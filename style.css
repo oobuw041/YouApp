@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    color: rgb(26, 25, 25);
+    font-size: 150px;
+    position: relative;
+    top: 350px;
+    left: 50px;
+    text-align: center;
+}
+
+
+.navbar ul{
+    list-style-type: none;
+    background-color: #d74ba1;
+     padding: 50px;
+     margin: 0px;
+     overflow: hidden;
+     position: fixed;
+     top: 0px;
+     width: 100%;
+     }
+   
+     .navbar a{
+         text-decoration: none;
+         color: white;
+         padding: 15px;
+         display: block;
+        text-align: center;
+        font-size: 25px;
+     }
+
+     .navbar a:hover{
+         background-color: hwb(319 61% 17%);
+        
+     }
+
+     .navbar li{
+         float: left;
+     }
+
+
